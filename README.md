@@ -1,1 +1,0 @@
-# sggs-pop-list-table
